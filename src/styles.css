@@ -1,0 +1,46 @@
+body {
+  background-color: #23252c;
+  font-size: 62.5%;
+}
+
+.profile-photo {
+  width: 15rem;
+}
+
+.email-button {
+  background-color: #e8e8e8;
+  display: flex;
+  max-width: fit-content;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.2rem;
+}
+
+.email-button p {
+  padding: 0;
+  margin: 0;
+  margin-left: 0.3rem;
+}
+
+.linkedin-button {
+  background-color: #4b87ce;
+  display: flex;
+  max-width: fit-content;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.2rem;
+  margin-left: 1rem;
+}
+
+.linkedin-button p {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  margin-left: 0.3rem;
+}
+
+.button-container {
+  display: flex;
+}
